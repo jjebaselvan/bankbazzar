@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33638" started-at="2018-09-09T05:49:39Z" finished-at="2018-09-09T05:50:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33638" started-at="2018-09-09T05:49:39Z" finished-at="2018-09-09T05:50:12Z">
+      <class name="BankTests.BankBazzarTest">
+        <test-method status="PASS" signature="startResult()[pri:0, instance:BankTests.BankBazzarTest@5ce81285]" name="startResult" is-config="true" duration-ms="473" started-at="2018-09-09T05:49:38Z" finished-at="2018-09-09T05:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startResult -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:BankTests.BankBazzarTest@5ce81285]" name="setData" is-config="true" duration-ms="0" started-at="2018-09-09T05:49:39Z" finished-at="2018-09-09T05:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="startTestCase()[pri:0, instance:BankTests.BankBazzarTest@5ce81285]" name="startTestCase" is-config="true" duration-ms="6" started-at="2018-09-09T05:49:39Z" finished-at="2018-09-09T05:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method status="PASS" signature="login()[pri:0, instance:BankTests.BankBazzarTest@5ce81285]" name="login" is-config="true" duration-ms="6892" started-at="2018-09-09T05:49:39Z" finished-at="2018-09-09T05:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="BBinvestmentsschemes()[pri:0, instance:BankTests.BankBazzarTest@5ce81285]" name="BBinvestmentsschemes" duration-ms="26726" started-at="2018-09-09T05:49:46Z" finished-at="2018-09-09T05:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BBinvestmentsschemes -->
+        <test-method status="PASS" signature="stopResult()[pri:0, instance:BankTests.BankBazzarTest@5ce81285]" name="stopResult" is-config="true" duration-ms="273" started-at="2018-09-09T05:50:14Z" finished-at="2018-09-09T05:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopResult -->
+      </class> <!-- BankTests.BankBazzarTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
