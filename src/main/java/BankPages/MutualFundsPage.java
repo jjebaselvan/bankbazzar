@@ -12,7 +12,7 @@ public class MutualFundsPage extends BBProjectMethods {
 		
 		WebElement eleclickMF = locateElement("linktext", "Search for Mutual Funds");
 		click(eleclickMF);
-		driver.manage().timeouts().implicitlyWait(03, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		return new AgePage();
 	}
 

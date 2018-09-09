@@ -58,7 +58,7 @@ dependencies {
 test
 {
 useTestNG(){
-suites 'testngoats1.xml'
+suites 'BankBazzar.xml'
 }
 }
 sourceSets{
